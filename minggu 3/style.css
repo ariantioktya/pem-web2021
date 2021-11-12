@@ -1,0 +1,45 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background: rgb(205, 208, 214);
+}
+
+table{
+    border-collapse: collapse;
+    font-size: 12pt;
+    border: rgb(81, 132, 190);
+
+}
+td {
+    padding: 8px;
+    height: 25px;
+}
+th{
+    background-color: rgb(45, 126, 163);
+    color:rgb(145, 180, 194);
+    height: 30px;
+}
+table, th, td{
+    padding: 8px 20px;
+    text-align: left;
+}
+table tr:nth-child(even) {
+    background: rgb(71, 155, 204);
+}
+div{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    margin-right: 0px;
+    color: rgb(0, 0, 0);
+}
+h1{
+    height: 80px
+}
+img{
+    height: 315px;
+    margin-left: 280px;
+    
+}
+section{
+    margin-top: -353px;
+    margin-left: 350px;
+}
